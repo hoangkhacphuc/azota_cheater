@@ -42,5 +42,9 @@
     {
       "question": "Theo Quy trình An toàn điện, các công việc khi tiến hành trên đường dây, thiết bị điện, ở gần hoặc liên quan đến đường dây, thiết bị điện đang mang điện, bao gồm cả vùng ảnh hưởng nguy hiểm bởi cảm ứng điện, đều phải thực hiện theo ?",
       "answer": "Thực hiện theo phiếu công tác hoặc lệnh công tác."
+    },
+    {
+        "question": "Theo Quy trình an toàn thủy, cơ, nhiệt, hóa, trách nhiệm của người cấp phiếu ?",
+        "answer": "Bao gồm cả 3 đáp án trên (dưới)"
     }
 ]
