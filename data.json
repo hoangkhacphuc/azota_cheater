@@ -46,5 +46,9 @@
     {
         "question": "Theo Quy trình an toàn thủy, cơ, nhiệt, hóa, trách nhiệm của người cấp phiếu ?",
         "answer": "Bao gồm cả 3 đáp án trên (dưới)"
+    },
+    {
+        "question": "Theo Quy trình An toàn điện thì khoảng cách an toàn đối với lưới điện hạ áp là ?",
+        "answer": "Khoảng cách là 0,5 m đối với thiết bị không bọc cách điện hoặc điểm hở"
     }
 ]
