@@ -1,0 +1,46 @@
+[
+    {
+      "question": "Theo Quy trình An toàn thủy, cơ, nhiệt, hóa, quy định về giàn giáo nhiều tầng như thế nào?",
+      "answer": "Khi giàn giáo cao hơn 6m phải làm ít nhất 2 sàn công tác, sàn làm việc bên trên, sàn bảo vệ bên dưới. Khi làm việc đồng thời trên 2 sàn thì vị trí giữa 2 sàn này phải có sàn hoặc lưới bảo vệ."
+    },
+    {
+      "question": "Theo Quy trình An toàn điện, người chỉ đạo chung khi công việc do nhiều đơn vị công tác của cùng một tổ chức hoạt động điện lực thực hiện là ?",
+      "answer": "Người lãnh đạo công việc."
+    },
+    {
+      "question": "Theo Quy trình An toàn điện, người có trách nhiệm phân công công việc, chỉ huy và giám sát nhân viên đơn vị công tác trong suốt quá trình thực hiện công việc là ?",
+      "answer": "Người chỉ huy trực tiếp."
+    },
+    {
+      "question": "Theo Quy trình An toàn điện, người thực hiện thủ tục cho phép đơn vị công tác vào làm việc khi hiện trường công tác đã đảm bảo an toàn về điện là ?",
+      "answer": "Người cho phép."
+    },
+    {
+      "question": "Theo Quy trình An toàn điện, người có kiến thức về an toàn điện, được huấn luyện, chỉ định và thực hiện việc giám sát an toàn điện cho đơn vị công tác là ?",
+      "answer": "Người giám sát an toàn điện."
+    },
+    {
+      "question": "Theo Quy trình An toàn điện, đơn vị công tác được quy định như thế nào ?",
+      "answer": "Tất cả các đáp án trên (dưới)"
+    },
+    {
+      "question": "Theo Quy trình An toàn điện, nhân viên đơn vị công tác được quy định như thế nào là đúng ?",
+      "answer": "Là người của đơn vị công tác trực tiếp thực hiện công việc do người chỉ huy trực tiếp phân công."
+    },
+    {
+      "question": "Theo Quy trình An toàn điện, công việc làm ở thiết bị điện ngoài trời hoặc trong nhà chỉ có một phần được cắt điện để làm việc hoặc thiết bị điện được cắt điện hoàn toàn nhưng các lối đi ra phần phân phối ngoài trời hoặc thông sang phòng bên cạch có điện vẫn mở cửa là ?",
+      "answer": "Làm việc có cắt điện một phần."
+    },
+    {
+      "question": "Theo Quy trình An toàn điện, công việc làm ở thiết bị đang mang điện, có sử dụng các trang bị, dụng cụ chuyên dùng là ?",
+      "answer": "Làm việc có điện."
+    },
+    {
+      "question": "Theo Quy trình An toàn điện, phương tiện bảo vệ cá nhân là gì ?",
+        "answer": "Là những dụng cụ, phương tiện mà người lao động được trang bị để sử dụng khi thực hiện nhiệm vụ để bảo vệ cơ thể khỏi tác động của các yếu tố nguy hiểm, độc hại."
+    },
+    {
+      "question": "Theo Quy trình An toàn điện, các công việc khi tiến hành trên đường dây, thiết bị điện, ở gần hoặc liên quan đến đường dây, thiết bị điện đang mang điện, bao gồm cả vùng ảnh hưởng nguy hiểm bởi cảm ứng điện, đều phải thực hiện theo ?",
+      "answer": "Thực hiện theo phiếu công tác hoặc lệnh công tác."
+    }
+]
