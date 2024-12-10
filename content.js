@@ -1,6 +1,6 @@
 // URL của API trả về danh sách câu hỏi và kết quả
 const API_URL = "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hvYW5na2hhY3BodWMvYXpvdGFfY2hlYXRlci9yZWZzL2hlYWRzL21haW4vZGF0YS5qc29u"; // Thay bằng URL của bạn
-const LIMIT = 5;
+const LIMIT = 999;
 var count = 0;
 
 function getQuestions() {

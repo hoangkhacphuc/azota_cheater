@@ -16,7 +16,7 @@ data = []
 # Duyệt qua các dòng, nhóm theo cặp (dòng lẻ là câu hỏi, dòng chẵn là đáp án)
 for i in range(1, sheet2.max_row + 1):
     question = sheet1.cell(row=i, column=1).value
-    answer = sheet2.cell(row=i + 1, column=1).value
+    answer = sheet2.cell(row=i, column=1).value
 
     if question and answer:  # Chỉ thêm nếu cả câu hỏi và đáp án đều có giá trị
         data.append({
